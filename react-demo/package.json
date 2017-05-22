@@ -1,0 +1,24 @@
+{
+  "name": "react-demo",
+  "version": "0.0.1",
+  "description": "react-demo",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "demo",
+    "react"
+  ],
+  "author": "Z_GQ",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-loader": "^7.0.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "css-loader": "^0.28.2",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "style-loader": "^0.18.0"
+  }
+}
